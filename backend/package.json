@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.9.12",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "isemail": "^3.2.0",
     "node-uuid": "^1.4.8",
     "pg": "^7.14.0",
